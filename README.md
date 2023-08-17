@@ -1,6 +1,6 @@
 # BlueProtocol-Translate
 Full translation of the game in different languages. You can take part in translating the game into other languages: Russian, English, German, French, Spanish, and others. 
-Visit our discord: https://discord.gg/nVfDBy97aK
+
 
 ## Disclaimer.
 This is a third-party fan project that has nothing to do with the creators of the game.
